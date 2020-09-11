@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="056510c3-3f57-408d-9133-726b7547dd67" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1hNdAmmG3q4lUuJrjwkoUdtr4of" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="056510c3-3f57-408d-9133-726b7547dd67" name="Default Changelist" comment="" />
+      <created>1599855342955</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599855342955</updated>
+      <workItem from="1599855344477" duration="439000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="102" key="#Deployment" timestamp="1599855516063">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="320" y="102" key="#Deployment/0.23.1440.827@0.23.1440.827" timestamp="1599855516063" />
+    <state x="304" y="89" key="#SSH_Configurations" timestamp="1599855461320">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="304" y="89" key="#SSH_Configurations/0.23.1440.827@0.23.1440.827" timestamp="1599855461320" />
+    <state x="385" y="174" width="670" height="676" key="search.everywhere.popup" timestamp="1599855567231">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="385" y="174" width="670" height="676" key="search.everywhere.popup/0.23.1440.827@0.23.1440.827" timestamp="1599855567231" />
+  </component>
+</project>
